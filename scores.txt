@@ -1,0 +1,15 @@
+RANDOM FOREST CLASSIFIER
+------------------------
+Train Accuracy : 100.00%
+Test Accuracy  : 96.67%
+F1 Score       : 0.9667
+Recall Score   : 0.9667
+Precision Score: 0.9667
+
+LOGISTIC REGRESSION
+-------------------
+Train Accuracy : 71.67%
+Test Accuracy  : 70.00%
+F1 Score       : 0.7000
+Recall Score   : 0.7000
+Precision Score: 0.7000
